@@ -1,5 +1,5 @@
 {
-  "name": "modul_admin_panel",
+  "name": "template-repo-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "src/script.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mouxez/modul_admin_panel.git"
+    "url": "git+https://github.com/mouxez/template_repo"
   },
   "author": "Maxim Borovik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mouxez/modul_admin_panel/issues"
+    "url": "https://github.com/mouxez/template_repo/issues"
   },
-  "homepage": "https://github.com/mouxez/modul_admin_panel#readme",
+  "homepage": "https://github.com/mouxez/template_repo#readme",
   "devDependencies": {
     "webpack": "4.43.0",
     "webpack-cli": "3.3.11",

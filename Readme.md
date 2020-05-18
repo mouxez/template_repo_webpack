@@ -1,3 +1,3 @@
-# тестовый репозиторий
+# template repo (webpack)
 
-Пожалуйста, выполните npm i && npm start для запуска проекта
+Please, run 'npm i && npm start' to launch the project
